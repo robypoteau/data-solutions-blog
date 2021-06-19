@@ -5,17 +5,29 @@
     <description>Understanding the tools around data architecture and analytics.</description>
     <link>https://blog.robopoto.com/</link>
     <atom:link href="https://blog.robopoto.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jun 2021 18:22:51 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Jun 2021 18:22:51 -0500</lastBuildDate>
+    <pubDate>Sat, 19 Jun 2021 01:35:38 -0500</pubDate>
+    <lastBuildDate>Sat, 19 Jun 2021 01:35:38 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Purpose of the Blog</title>
-        <description>&lt;p&gt;The purpose of the blog.&lt;/p&gt;
+        <description>&lt;p&gt;I’ve spent most of my life learning and several years teaching, but I’ve long been scared to enter the space of content creation. The thought of putting myself out there is scarier than I imagined, but I was encouraged by a quote I first heard from, author of the book Daring Greatly, Brené Brown:&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra euismod eleifend. Quisque ac posuere tortor. Aenean non bibendum nisl, ut dictum ipsum. Nunc dictum ullamcorper sodales. Cras sapien quam, egestas vitae tincidunt eu, bibendum sed dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas pharetra purus in molestie cursus. Nulla nec posuere justo. Duis consequat erat vitae mi porta, a aliquet dolor vulputate. Phasellus tincidunt pharetra risus et faucibus. Donec quis dui lacus. Cras sed mollis tortor, sed ornare justo.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. - &lt;em&gt;Theodore Roosevelt&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Therefore, this blog is an opportunity for me to share my knowledge and a chance to enter the arena.&lt;/p&gt;
+
+&lt;p&gt;I’m planning&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;To include articles that discuss tools, both theory and practice, in an easily consumable form.&lt;/li&gt;
+  &lt;li&gt;To discuss technologies and without neglecting use cases.&lt;/li&gt;
+  &lt;li&gt;To survey previous literature and summarize key findings.&lt;/li&gt;
+  &lt;li&gt;To share from my experiences and work life.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 05 Jun 2021 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 18 Jun 2021 00:00:00 -0500</pubDate>
         <link>https://blog.robopoto.com/purpose-of-the-blog/</link>
         <guid isPermaLink="true">https://blog.robopoto.com/purpose-of-the-blog/</guid>
         
